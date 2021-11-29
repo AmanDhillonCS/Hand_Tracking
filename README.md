@@ -1,6 +1,7 @@
 # Hand_Tracking
-Hand tracking through cv2 framework to adjust your volume in your pc.
-![mediapipeimg](https://google.github.io/mediapipe/images/mobile/hand_tracking_3d_android_gpu.gif)
+Hand tracking through CV2 framework and MediaPipe libray to adjust your volume in your pc.
+
+![mediapipeimg](hand.gif)
 
 ## For Developers
 * MediaPipe Library
@@ -14,3 +15,4 @@ For accuracy model used 30,000 real-world images with 21 3D coordinates, as show
 ## For Users
 * You will need an active camera connected to pc or a webcam.
 * Ideal to run this program in PyCharm
+* Note: Users will need Python 3.9 to 3.7 as MediaPipe does not support 
